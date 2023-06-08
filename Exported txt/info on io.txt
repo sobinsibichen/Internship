@@ -1,0 +1,5 @@
+		|	Spec	|		|	Spec 	|		|		|	
+	+9V	|	+9±0.1	|	9.086	|	13 ± 1 	|	13.2	|	Test Engineer	|	
+	-9V	|	- 9 ± 0.1	|	-9.087	|	4 ± 1	|	4.5	|	Test stage	|	
+	BIAS PIN-4	|	+0.63 ± 0.01	|	0.628	|		|		|	Test Status	|	Pass / Fail
+		|		|		|		|		|		|	
